@@ -1,4 +1,4 @@
- [![](https://i.imgur.com/zUymB7f.png | 169x15)]
+<img src="https://i.imgur.com/zUymB7f.png" width="169" height="15">
 
 # TrebuchetCore
 Trebuchet core is libary mod used by our mods
